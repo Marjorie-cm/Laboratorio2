@@ -129,6 +129,8 @@ Pruebas finalizadas correctamente.
 - Tabla n / tiempo / operaciones.
 - Explicación de resultados (sección de análisis técnico).
 
-## Autora
+## Autores
 
 Marjorie Fernanda Sarango Condor
+Alex Steven Piedra Benalcazar
+
